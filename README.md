@@ -1,1 +1,1 @@
-# EffortLogger
+# effort-logger
